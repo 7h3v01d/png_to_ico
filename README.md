@@ -3,8 +3,23 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.4+-green)](https://www.riverbankcomputing.com/software/pyqt/)
 [![Pillow](https://img.shields.io/badge/Pillow-9.0+-yellow)](https://python-pillow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](#installation)
+
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
 
 **Simple, modern desktop GUI application** to convert **PNG images** to **ICO icon files** with multiple standard sizes — perfect for creating application icons, favicons, Windows shortcuts, and more.
 
@@ -105,25 +120,26 @@ The generated ICO contains multiple sizes for best quality across different uses
 
 Contributions welcome!
 
-## Contributing
-Pull requests are welcome!</br>
-For major changes, please open an issue first to discuss what you would like to change.
-1. Fork the repository
-2. Create your feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
+## Contribution Policy
+
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
 
 ## License
-Distributed under the MIT License.</br>
-See LICENSE for more information.
+This project is not open-source.
 
-## Acknowledgments
-
-- Pillow — powerful image processing library
-- PyQt6 — excellent Qt bindings for Python
-- Icons & inspiration from many open-source icon utilities
-
-
-Happy icon making! 🖼️ → 🪟
-Created by Leon • Last updated January 2026
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
